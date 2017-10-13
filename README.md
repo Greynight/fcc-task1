@@ -1,2 +1,1 @@
-# fcc-task1
-FreeCodeCamp: Get Set for our API Development Projects
+# Backend Challenges boilerplate - package.json
